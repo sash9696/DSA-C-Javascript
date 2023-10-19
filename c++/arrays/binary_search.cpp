@@ -44,3 +44,7 @@ int main (){
 
     return 0;
 }
+
+//Time complexity => n => n/2 => n/4 => ........ n/2powerk
+
+//O(logn)
