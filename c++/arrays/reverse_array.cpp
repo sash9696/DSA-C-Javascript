@@ -38,3 +38,4 @@ int main()
 }
 
 //Time complexity O(N)
+//No extra space so space complexity O(1)
