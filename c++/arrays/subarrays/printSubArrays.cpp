@@ -30,3 +30,4 @@ int main()
 
     return 0;
 }
+//Time complexity => O(N power 3) due to 3 nested loops
